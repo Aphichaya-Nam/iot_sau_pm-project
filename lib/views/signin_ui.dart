@@ -119,7 +119,7 @@ class _SigninUIState extends State<SigninUI> {
                   child: Text(
                     'Signin',
                     style: TextStyle(
-                      color: Colors.white,
+                      color: Colors.pink,
                     ),
                   ),
                   style: ElevatedButton.styleFrom(
